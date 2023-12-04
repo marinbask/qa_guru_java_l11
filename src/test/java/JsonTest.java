@@ -26,8 +26,7 @@ public class JsonTest {
                 assertThat(json.getName()).isEqualTo("Marina");
                 assertThat(json.getAge()).isEqualTo("34");
                 assertThat(json.getProfession()).isEqualTo("Qa");
-                assertThat(json.getSkills()).contains("Java",
-                        "Automation");
+                assertThat(json.getSkills()).contains("Java", "Automation");
 
             }
         }

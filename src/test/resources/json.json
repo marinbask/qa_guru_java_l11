@@ -3,7 +3,6 @@
   "age": "34",
   "profession": "Qa",
   "skills": [
-    "Java",
-    "Automation"
+    "Java", "Automation"
   ]
 }
